@@ -1,0 +1,17 @@
+.state-expanded > .database-node-click-target {
+    background-color: #1c72e830;
+}
+.state-expanded .database-children .database-key-value {
+    border-left: 2px solid #1c72e8;
+    background-color: #1c72e810;
+}
+f7e-data-tree .database-children .database-node-click-target {
+    padding-right: 0;
+}
+
+f7e-data-tree
+    .database-node-click-target
+    .database-key-value
+    .database-leaf-value {
+    word-break: break-all;
+}
