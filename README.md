@@ -20,6 +20,6 @@ Use by your own risk.
 (non-collect-data)
 
 # Screenshot
-  ![Screenshot]("Screenshot 2024-07-18 at 6.42.01 in the evening.png")
+  ![Screenshot](https://github.com/Sariln/x-firebase/blob/main/Screenshot%202024-07-18%20at%206.42.01%20in%20the%20evening.png)
 
 Find me at : [Profile](https://x.com/tt_lysari)
