@@ -1,3 +1,4 @@
+function xLoad(){
 if (!('IntersectionObserver' in window)) {
     console.log('Intersection Observer API is not supported in this browser');
     // Provide a fallback or polyfill if needed
@@ -88,3 +89,6 @@ document.addEventListener(
     },
     true
 );
+}
+
+window.xFirebase = xLoad;
