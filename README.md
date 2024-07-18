@@ -20,6 +20,6 @@ Use by your own risk.
 (non-collect-data)
 
 # Screenshot
-  will upload later 😁!
+  ![Screenshot]("Screenshot 2024-07-18 at 6.42.01 in the evening.png")
 
 Find me at : [Profile](https://x.com/tt_lysari)
