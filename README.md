@@ -4,7 +4,7 @@ I love to customize firebase 😂.
 recommanded use with : [Browser Extension](https://tenrabbits.github.io/user-js-css-docs)
 
 # Library Require !!!
-JQuery : [Website](https://jquery.com)
+JQuery : [Website](https://jquery.com)<br />
 Fancyapp (optional) : [Website](https://fancyapps.com/fancybox)
 
 # Note:
