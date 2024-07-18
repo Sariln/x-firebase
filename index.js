@@ -49,10 +49,12 @@ function init(targetScroll, groupId) {
                             $newImg.attr('title', texts);
                             $newImg.attr('src', texts);
                             $target.empty().append($newImg);
-                            $target.parent().attr('data-fancybox', groupId);
-                            $target.parent().attr('data-src', texts);
-                            $target.parent().attr('title', texts);
-                            Fancybox.bind('[data-fancybox]');
+                            if(Fancybox){
+                                $target.parent().attr('data-fancybox', groupId);
+                                $target.parent().attr('data-src', texts);
+                                $target.parent().attr('title', texts);
+                                Fancybox.bind('[data-fancybox]');
+                            }
                         }
                     } catch (e) {
                         // console.log('error', e);
