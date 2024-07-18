@@ -10,6 +10,11 @@ https://cdn.jsdelivr.net/gh/Sariln/x-firebase/index.css;
 
 js <br />
 https://cdn.jsdelivr.net/gh/Sariln/x-firebase/index.js
+```
+  if(typeof xFirebase === 'function'){
+      xFirebase();
+  }
+```
 
 # Library Require !!!
 JQuery : [Website](https://jquery.com)<br />
